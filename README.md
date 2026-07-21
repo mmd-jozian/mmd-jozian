@@ -4,15 +4,31 @@ Startup Developer
 </div> <br/>
 English
 
-I build startups with the skills I have — Flutter for mobile, FastAPI for backend. Lumenbit is one of my startups.
+I turn ideas into working products. With Flutter on the frontend and FastAPI on the backend, I handle the full cycle of building a startup — from the first line of code to a live, working release — without needing a team to get there.
 
+Lumenbit is one of my startups, where I design and build mobile apps, web apps, and advanced Telegram bots for early-stage businesses that need a working product fast, without cutting corners on quality.
+
+What I bring to the table:
+
+📱 End-to-end mobile app development with Flutter — one codebase, native feel on every platform
+⚙️ Fast, reliable backend systems built with FastAPI and Python
+🤖 Advanced Telegram bots that automate real business workflows, not just send messages
+🚀 The ability to take a product from concept to launch on my own
 🌱 Currently open to new job opportunities & collaborations
 💬 Reach out on Telegram — link below
 <br/>
 فارسی
 
-با مهارت‌هایی که دارم استارتاپ می‌سازم — Flutter برای موبایل، ‏FastAPI برای بک‌اند. Lumenbit یکی از استارتاپ‌های من است.
+من ایده‌ها رو به محصول واقعی تبدیل می‌کنم. با Flutter در سمت فرانت‌اند و FastAPI در سمت بک‌اند، کل چرخه‌ی ساخت یک استارتاپ رو خودم پیش می‌برم — از اولین خط کد تا انتشار یک نسخه‌ی واقعی و قابل استفاده، بدون نیاز به یک تیم بزرگ.
 
+Lumenbit یکی از استارتاپ‌های من است؛ جایی که برای کسب‌وکارهای نوپا که به یک محصول سریع و بدون افت کیفیت نیاز دارن، اپلیکیشن موبایل، وب‌اپ و ربات‌های تلگرامی پیشرفته طراحی و توسعه می‌دم.
+
+چیزهایی که ارائه می‌دم:
+
+📱 توسعه‌ی کامل اپلیکیشن موبایل با Flutter — یک کدبیس، حس بومی روی هر پلتفرم
+⚙️ سیستم‌های بک‌اند سریع و پایدار با FastAPI و Python
+🤖 ربات‌های تلگرامی پیشرفته که فرآیندهای واقعی کسب‌وکار رو خودکار می‌کنن، نه فقط پیام‌رسانی ساده
+🚀 توانایی رسوندن یک محصول از مرحله‌ی ایده تا انتشار، به‌تنهایی
 🌱 در حال حاضر، آماده‌ی فرصت‌های شغلی و همکاری جدید
 💬 از طریق تلگرام در ارتباط باشید — لینک در پایین
 <br/>
