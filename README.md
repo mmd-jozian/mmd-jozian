@@ -2,7 +2,7 @@
 Mohammad Jozian
 🚀 Startup Developer
 
-<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-8A2BE2?style=for-the-badge&labelColor=0D1117" /></a> <a href="#-فارسی"><img src="https://img.shields.io/badge/🇮🇷_فارسی-8A2BE2?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-8A2BE2?style=for-the-badge&labelColor=0D1117" /></a> <a href="#-fasrsi"><img src="https://img.shields.io/badge/🇮🇷_فارسی-8A2BE2?style=for-the-badge&labelColor=0D1117" /></a>
 
 </div> <br/> <details open> <summary><h2>🇬🇧 English</h2></summary>
 
